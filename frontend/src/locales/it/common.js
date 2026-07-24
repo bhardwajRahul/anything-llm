@@ -1194,7 +1194,7 @@ const TRANSLATIONS = {
     },
     submit: "Invia",
     edit_info_user:
-      '"Invia" rigenera la risposta dell\ AI. "Salva" aggiorna solo il tuo messaggio.',
+      '"Invia" rigenera la risposta dell AI. "Salva" aggiorna solo il tuo messaggio.',
     edit_info_assistant:
       "Le modifiche verranno salvate direttamente in questa risposta.",
     see_less: "Visualizza meno",
